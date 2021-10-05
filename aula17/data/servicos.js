@@ -1,0 +1,1 @@
+module.exports = [{"id":1,"titulo":"Serviço XPTO","descricao":"Serviço XPTO","imagem":"ilustra-user.png","valor":10}]
